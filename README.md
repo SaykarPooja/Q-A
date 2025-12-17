@@ -11,7 +11,7 @@ Importance of DevOps:
 
 **Improved Security (DevSecOps)** – Integrates security practices early in the development lifecycle, reducing vulnerabilities.
 
-**Cost Effective **– Reduces operational costs by minimizing failures, rework, and downtime through automation.
+****Cost Effective **– Reduces operational costs by minimizing failures, rework, and downtime through automation.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2.What is S3?
 
