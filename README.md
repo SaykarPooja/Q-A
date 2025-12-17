@@ -24,3 +24,30 @@ it also provides versioning.
 How to create S3 bucket in AWS?
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+How do you manage secrets or how do you manage sensitive information in your organization?
+
+
+Secret management is one of the key responsibility of devops engg.
+there are below 3 commaon ways we do secret management in 
+
+1.systems manager---easy to retrive,sensitive but not much
+2.secrets manager----if information is very very sensitive eg-DB password,apli token(password rotation)
+3.HashiCrops vault
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
