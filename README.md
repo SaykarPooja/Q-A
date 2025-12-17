@@ -32,7 +32,7 @@ there are below 3 commaon ways we do secret management in
 
 1.systems manager---easy to retrive,sensitive but not much
 2.secrets manager----if information is very very sensitive eg-DB password,apli token(password rotation)
-3.HashiCrops vault
+3.HashiCrops vault---if organization use multi cloud ,dedicated open source 
 
 
 
