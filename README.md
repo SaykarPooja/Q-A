@@ -18,6 +18,8 @@ Importance of DevOps:
 Amazon S3 (Simple Storage Service):
 It is one of the most important AWS services used to securely store and retrieve data such as files and folders in the cloud. Data stored in S3 can be accessed anytime, from anywhere, and it offers high availability, durability, and security.
 
-How to create S# bucket in AWS?
+it also provides versioning.
+
+How to create S3 bucket in AWS?
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
